@@ -12,3 +12,5 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 3.热力图区域（？）
 4.经纬度网格
 5.根据csv文件生成json文件，将csv文件放入static文件夹下，修改index.js文件中的路径并在命令行进入文件夹，运行node index.js即可生成
+
+艰难提交代码的一天
